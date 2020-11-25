@@ -33,3 +33,5 @@ client.on("ready", () => {
     `Iniando..`
   );
 });
+
+client.login(process.env.TOKEN)
