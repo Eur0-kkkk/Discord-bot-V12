@@ -30,7 +30,7 @@ client.on("message", async message => {
 
 client.on("ready", () => {
   console.log(
-    `Iniando..`
+    `Iniciando..`
   );
 });
 
